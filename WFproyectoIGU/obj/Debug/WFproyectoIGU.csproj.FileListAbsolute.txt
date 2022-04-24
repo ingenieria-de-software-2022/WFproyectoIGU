@@ -1,0 +1,11 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\bin\Debug\WFproyectoIGU.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\bin\Debug\WFproyectoIGU.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\bin\Debug\WFproyectoIGU.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFproyectoIGU\WFproyectoIGU\obj\Debug\WFproyectoIGU.pdb
